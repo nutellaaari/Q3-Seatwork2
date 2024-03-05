@@ -1,0 +1,44 @@
+body {
+	background-color: #8166bb;
+}
+
+
+.container {
+	text-align: center;
+	justify-content: center;
+	padding: 5px;
+}
+
+.container1 {
+	border-radius: 25px;
+	margin: 80px;
+	padding: 40px;
+	background-color: #28242c;
+}
+.table {
+	border: 3px solid #5e3a92;
+}
+
+[type="checkbox"]
+{
+    vertical-align:middle;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+.btn {
+  border: #d0bad8 solid;
+  background-color: #d0b9dd
+}
+
+.success:hover {
+	background-color: #d0bad8;
+	color: white;
+}
+
+h2 {
+	color: #d0b9dd;
+}
+
